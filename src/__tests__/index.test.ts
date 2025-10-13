@@ -5,13 +5,15 @@ import * as pdnd from '../index.cts';
 test('exported symbols', () => {
   expect(Object.keys(pdnd)).toMatchInlineSnapshot(`
     [
+      "combine",
       "draggable",
       "dropTargetForElements",
+      "monitorForElements",
+      "pointerOutsideOfPreview",
+      "setCustomNativeDragPreview",
+      "autoScrollForElements",
       "attachClosestEdge",
       "extractClosestEdge",
-      "combine",
-      "setCustomNativeDragPreview",
-      "pointerOutsideOfPreview",
       "getReorderDestinationIndex",
     ]
   `);
