@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/zakodium/pdnd-esm/compare/v1.0.1...v1.0.2) (2025-10-13)
+
+
+### Bug Fixes
+
+* add missing export of `reorder` ([bbdb6c3](https://github.com/zakodium/pdnd-esm/commit/bbdb6c39ecaf421399b9087209bfddf3ca27a8a2))
+
 ## [1.0.1](https://github.com/zakodium/pdnd-esm/compare/v1.0.0...v1.0.1) (2025-10-13)
 
 
