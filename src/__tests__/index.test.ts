@@ -11,6 +11,7 @@ test('exported symbols', () => {
       "monitorForElements",
       "pointerOutsideOfPreview",
       "setCustomNativeDragPreview",
+      "reorder",
       "autoScrollForElements",
       "attachClosestEdge",
       "extractClosestEdge",
