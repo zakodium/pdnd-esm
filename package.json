@@ -1,6 +1,6 @@
 {
   "name": "@zakodium/pdnd-esm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "Re-export specific methods from @atlaskit/pragmatic-drag-and-drop for ESM compatibility",
   "keywords": [],

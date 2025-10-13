@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/zakodium-oss/pdnd-esm/compare/v1.0.0...v1.0.1) (2025-10-13)
+
+
+### Bug Fixes
+
+* publish on npm too ([#2](https://github.com/zakodium-oss/pdnd-esm/issues/2)) ([e6abd6e](https://github.com/zakodium-oss/pdnd-esm/commit/e6abd6e1a1184781e2a4809ff5358054381757e1))
+
 ## 1.0.0 (2025-10-13)
 
 
