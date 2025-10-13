@@ -10,6 +10,7 @@ export {
 } from '@atlaskit/pragmatic-drag-and-drop/element/adapter';
 export { pointerOutsideOfPreview } from '@atlaskit/pragmatic-drag-and-drop/element/pointer-outside-of-preview';
 export { setCustomNativeDragPreview } from '@atlaskit/pragmatic-drag-and-drop/element/set-custom-native-drag-preview';
+export { reorder } from '@atlaskit/pragmatic-drag-and-drop/reorder';
 export { autoScrollForElements } from '@atlaskit/pragmatic-drag-and-drop-auto-scroll/element';
 export {
   attachClosestEdge,
