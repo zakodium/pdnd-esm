@@ -44,10 +44,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zakodium/@zakodium/pdnd-esm.git"
+    "url": "git+https://github.com/zakodium/pdnd-esm.git"
   },
   "bugs": {
-    "url": "https://github.com/zakodium/@zakodium/pdnd-esm/issues"
+    "url": "https://github.com/zakodium/pdnd-esm/issues"
   },
-  "homepage": "https://github.com/zakodium/@zakodium/pdnd-esm#readme"
+  "homepage": "https://github.com/zakodium/pdnd-esm#readme"
 }
