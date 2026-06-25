@@ -13,6 +13,7 @@ test('exported symbols', () => {
       "setCustomNativeDragPreview",
       "reorder",
       "autoScrollForElements",
+      "autoScrollWindowForElements",
       "attachClosestEdge",
       "extractClosestEdge",
       "getReorderDestinationIndex",
