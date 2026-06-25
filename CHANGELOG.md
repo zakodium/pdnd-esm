@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/zakodium/pdnd-esm/compare/v1.0.2...v1.1.0) (2026-06-25)
+
+
+### Features
+
+* update pragmatic-drag-and-drop and export all symbols ([#6](https://github.com/zakodium/pdnd-esm/issues/6)) ([aaf7556](https://github.com/zakodium/pdnd-esm/commit/aaf7556801ec0a7a16ae4e0781a27e7fe129e45f))
+
 ## [1.0.2](https://github.com/zakodium/pdnd-esm/compare/v1.0.1...v1.0.2) (2025-10-13)
 
 
