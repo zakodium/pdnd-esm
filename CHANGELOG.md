@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/zakodium/pdnd-esm/compare/v1.1.0...v1.1.1) (2026-08-19)
+
+
+### Bug Fixes
+
+* update core pragmatic-drag-and-drop ([#8](https://github.com/zakodium/pdnd-esm/issues/8)) ([1321c39](https://github.com/zakodium/pdnd-esm/commit/1321c3945c1c595855580fd5d59a7dc523f5472a))
+
 ## [1.1.0](https://github.com/zakodium/pdnd-esm/compare/v1.0.2...v1.1.0) (2026-06-25)
 
 
