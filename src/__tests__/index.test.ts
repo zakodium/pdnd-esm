@@ -3,20 +3,20 @@ import { expect, test } from 'vitest';
 import * as pdnd from '../index.cts';
 
 test('exported symbols', () => {
-  expect(Object.keys(pdnd)).toMatchInlineSnapshot(`
+  expect(Object.keys(pdnd).toSorted()).toMatchInlineSnapshot(`
     [
+      "attachClosestEdge",
+      "autoScrollForElements",
+      "autoScrollWindowForElements",
       "combine",
       "draggable",
       "dropTargetForElements",
-      "monitorForElements",
-      "pointerOutsideOfPreview",
-      "setCustomNativeDragPreview",
-      "reorder",
-      "autoScrollForElements",
-      "autoScrollWindowForElements",
-      "attachClosestEdge",
       "extractClosestEdge",
       "getReorderDestinationIndex",
+      "monitorForElements",
+      "pointerOutsideOfPreview",
+      "reorder",
+      "setCustomNativeDragPreview",
     ]
   `);
 });
