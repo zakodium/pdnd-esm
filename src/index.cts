@@ -8,8 +8,8 @@ export * from '@atlaskit/pragmatic-drag-and-drop/utils/pointer-outside-of-previe
 export * from '@atlaskit/pragmatic-drag-and-drop/utils/reorder';
 export * from '@atlaskit/pragmatic-drag-and-drop/utils/set-custom-native-drag-preview';
 export * from '@atlaskit/pragmatic-drag-and-drop-auto-scroll/element';
+export type { Edge } from '@atlaskit/pragmatic-drag-and-drop-hitbox/closest-edge';
 export {
-  type Edge,
   attachClosestEdge,
   extractClosestEdge,
 } from '@atlaskit/pragmatic-drag-and-drop-hitbox/closest-edge';
