@@ -27,9 +27,9 @@
     "tsc-build": "tsc --project tsconfig.build.json"
   },
   "dependencies": {
-    "@atlaskit/pragmatic-drag-and-drop": "^3.0.0",
-    "@atlaskit/pragmatic-drag-and-drop-auto-scroll": "^3.0.1",
-    "@atlaskit/pragmatic-drag-and-drop-hitbox": "^2.1.0"
+    "@atlaskit/pragmatic-drag-and-drop": "^3.1.0",
+    "@atlaskit/pragmatic-drag-and-drop-auto-scroll": "^3.2.0",
+    "@atlaskit/pragmatic-drag-and-drop-hitbox": "^2.2.2"
   },
   "devDependencies": {
     "@types/node": "^24.13.3",
