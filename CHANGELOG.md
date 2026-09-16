@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/zakodium/pdnd-esm/compare/v1.1.1...v1.1.2) (2026-09-16)
+
+
+### Bug Fixes
+
+* export Edge type for compatibility ([a2b7078](https://github.com/zakodium/pdnd-esm/commit/a2b70789604ecb8c41d375940e735d7fa3952c1e))
+
 ## [1.1.1](https://github.com/zakodium/pdnd-esm/compare/v1.1.0...v1.1.1) (2026-08-19)
 
 
