@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/zakodium/pdnd-esm/compare/v1.1.2...v1.2.0) (2026-09-25)
+
+
+### Features
+
+* update dependencies ([#12](https://github.com/zakodium/pdnd-esm/issues/12)) ([acd163e](https://github.com/zakodium/pdnd-esm/commit/acd163e089e5117a83f83471b635153b6ee9e309))
+
 ## [1.1.2](https://github.com/zakodium/pdnd-esm/compare/v1.1.1...v1.1.2) (2026-09-16)
 
 
